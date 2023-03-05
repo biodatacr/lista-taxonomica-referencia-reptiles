@@ -1,0 +1,8 @@
+usageKey,scientificName,canonicalName,rank,status,confidence,matchType,kingdom,phylum,family,genus,species,kingdomKey,phylumKey,classKey,familyKey,genusKey,speciesKey,synonym,class,acceptedUsageKey,verbatim_name,verbatim_index
+8999375,"Norops Guyer & Savage, 1987",Norops,GENUS,ACCEPTED,92,HIGHERRANK,Animalia,NA,NA,Norops,NA,1,NA,NA,NA,8999375,NA,FALSE,NA,NA,Norops charlesmyersi,27
+8999375,"Norops Guyer & Savage, 1987",Norops,GENUS,ACCEPTED,92,HIGHERRANK,Animalia,NA,NA,Norops,NA,1,NA,NA,NA,8999375,NA,FALSE,NA,NA,Norops cryptolimifrons,28
+8999375,"Norops Guyer & Savage, 1987",Norops,GENUS,ACCEPTED,92,HIGHERRANK,Animalia,NA,NA,Norops,NA,1,NA,NA,NA,8999375,NA,FALSE,NA,NA,Norops intermedius,33
+8999375,"Norops Guyer & Savage, 1987",Norops,GENUS,ACCEPTED,92,HIGHERRANK,Animalia,NA,NA,Norops,NA,1,NA,NA,NA,8999375,NA,FALSE,NA,NA,Norops marsupialis,38
+8999375,"Norops Guyer & Savage, 1987",Norops,GENUS,ACCEPTED,92,HIGHERRANK,Animalia,NA,NA,Norops,NA,1,NA,NA,NA,8999375,NA,FALSE,NA,NA,Norops osa,40
+8999375,"Norops Guyer & Savage, 1987",Norops,GENUS,ACCEPTED,92,HIGHERRANK,Animalia,NA,NA,Norops,NA,1,NA,NA,NA,8999375,NA,FALSE,NA,NA,Norops unilobatus,51
+2471939,"Holcosus Cope, 1862",Holcosus,GENUS,ACCEPTED,94,HIGHERRANK,Animalia,Chordata,Teiidae,Holcosus,NA,1,44,11592253,5019,2471939,NA,FALSE,Squamata,NA,Holcosus praesignis,84
